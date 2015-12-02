@@ -101,7 +101,7 @@ exports.list = function(req, res) {
             //var predictio= getPredictions();
             //predictio="Start\n"+predictio+"\nEnd"    
             //console.log(predictio);
-            res.json(predictio);   
+           // res.json(predictio);   
 		}
 	});
  
